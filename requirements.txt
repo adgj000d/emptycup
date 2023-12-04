@@ -8,3 +8,5 @@ Djongo
 pymongo==3.12.1
 sqlparse==0.2.4
 dnspython
+whitenoise==6.2.0
+Brotli==1.0.9
