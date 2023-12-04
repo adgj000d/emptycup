@@ -1,0 +1,10 @@
+asgiref==3.7.2
+Django
+tzdata==2023.3
+gunicorn
+djangorestframework
+django-cors-headers
+Djongo
+pymongo==3.12.1
+sqlparse==0.2.4
+dnspython

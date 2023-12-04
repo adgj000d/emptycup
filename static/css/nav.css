@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    border: 0.25px solid #D0D0D0;
+}
+
+.company-name {
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #716966;
+    
+    margin-top: 4px;
+    line-height: 29px;
+}
+
+.menu-icon {
+    margin-right: 6px;
+}
+
+.nav-line {
+    border: 0.25px solid #D0D0D0;
+}
+
+.overlay-content {
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 0.25px solid #D0D0D0;
+}
+
+.content-1, .content-2 {
+    display: flex;
+    gap: 30px;
+}
+
+.map-icon {
+    margin-left: 5px;
+}
